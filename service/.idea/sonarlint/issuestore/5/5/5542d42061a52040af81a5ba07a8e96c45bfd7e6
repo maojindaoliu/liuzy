@@ -1,0 +1,11 @@
+
+squid:S1488E"^Immediately return this expression instead of assigning it to the temporary variable "invoke".(»‰™üşÿÿÿÿ8íå¶³-
+bsquid:S2147%"DCombine this catch with the one at line 35, which has the same body.(ıàÑÎ8èæ€³-
+Fsquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ÚÆ€³-
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èæ€³-
+Fsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•ù€³-
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™’³-
+Fsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÒ…³-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‹ÓÂŠ³-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8üúÃŠ³-
+gsquid:S2147I"DCombine this catch with the one at line 71, which has the same body.(¼¯•¶ùÿÿÿÿ8ĞÒ…³-

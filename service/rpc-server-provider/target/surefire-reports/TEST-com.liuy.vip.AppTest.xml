@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.liuy.vip.AppTest" time="0.051" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\study\rpc\service\rpc-server-provider\target\test-classes;E:\study\rpc\service\rpc-server-provider\target\classes;E:\myprogrames\maven-repository\junit\junit\4.11\junit-4.11.jar;E:\myprogrames\maven-repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;E:\study\rpc\service\rpc-server-api\target\rpc-server-api-1.0-SNAPSHOT.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="E:\myprogrames\java\java8\jdk1.8.0_45\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Liuy\AppData\Local\Temp\surefire2989355767131998042\surefirebooter1322037067128388688.jar C:\Users\Liuy\AppData\Local\Temp\surefire2989355767131998042 2019-06-07T19-27-01_316-jvmRun1 surefire5438994632648784318tmp surefire_15018698477633803972tmp"/>
+    <property name="surefire.test.class.path" value="E:\study\rpc\service\rpc-server-provider\target\test-classes;E:\study\rpc\service\rpc-server-provider\target\classes;E:\myprogrames\maven-repository\junit\junit\4.11\junit-4.11.jar;E:\myprogrames\maven-repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;E:\study\rpc\service\rpc-server-api\target\rpc-server-api-1.0-SNAPSHOT.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Liuy"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="E:\myprogrames\java\java8\jdk1.8.0_45\jre"/>
+    <property name="basedir" value="E:\study\rpc\service\rpc-server-provider"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Liuy\AppData\Local\Temp\surefire2989355767131998042\surefirebooter1322037067128388688.jar"/>
+    <property name="sun.boot.class.path" value="E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\resources.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\rt.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\sunrsasign.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\jsse.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\jce.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\charsets.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\jfr.jar;E:\myprogrames\java\java8\jdk1.8.0_45\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_45-b14"/>
+    <property name="user.name" value="Liuy"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.3"/>
+    <property name="java.endorsed.dirs" value="E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\myprogrames\maven-repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Liuy\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2018.3.2"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="user.dir" value="E:\study\rpc\service\rpc-server-provider"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="E:\myprogrames\java\java8\jdk1.8.0_45\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;E:\myprogrames\java\jdk-9.0.4\bin;E:\myprogrames\java\jdk-9.0.4\jre\bin;E:\software\mysql-5.7.21-winx64\mysql-5.6.17-winx64\bin;E:\programs\nodejs\;E:\myprogrames\apache-maven-3.5.3\bin;E:\software\gradle-4.3\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\download\mysql-8.0.12-winx64\bin;E:\myprogrames\Git\cmd;E:\myprogrames\tortoisegit\bin;E:\myprogrames\TortoiseSVN\bin;E:\software\gradle-4.3\bin;C:\Users\Liuy\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Liuy\AppData\Local\Programs\Python\Python37\;C:\Users\Liuy\AppData\Local\Microsoft\WindowsApps;C:\Users\Liuy\AppData\Roaming\npm;E:\myprogrames\Microsoft VS Code\bin;C:\Users\Liuy\AppData\Local\GitHubDesktop\bin;C:\Users\Liuy\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm 2019.1.2\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.ext.dirs" value="E:\myprogrames\java\java8\jdk1.8.0_45\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.liuy.vip.AppTest" time="0.002"/>
+</testsuite>
