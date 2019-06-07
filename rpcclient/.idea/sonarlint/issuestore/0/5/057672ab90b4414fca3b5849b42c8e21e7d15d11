@@ -1,0 +1,5 @@
+
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8æ²Á‘³-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8äÕÒ‘³-
+gsquid:S2095 "DUse try-with-resources or close this "Socket" in a "finally" clause.(ú¿Íùÿÿÿÿ8æ²Á‘³-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8™ÄÌ‘³-
